@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T14:13:28.900Z",
+  "generated_at": "2026-08-04T14:13:58.499Z",
   "width": 1800,
   "height": 340,
   "scales": [
@@ -198,14 +198,14 @@
     {
       "root": "B",
       "type": "major",
-      "slug": "flat-major",
-      "path": "flat-major/scale-diagram.png"
+      "slug": "b-major",
+      "path": "b-major/scale-diagram.png"
     },
     {
       "root": "B",
       "type": "minor",
-      "slug": "flat-minor",
-      "path": "flat-minor/scale-diagram.png"
+      "slug": "b-minor",
+      "path": "b-minor/scale-diagram.png"
     }
   ]
 }
