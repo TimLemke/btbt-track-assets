@@ -1,0 +1,211 @@
+{
+  "generated_at": "2026-08-04T14:12:56.818Z",
+  "width": 1800,
+  "height": 340,
+  "scales": [
+    {
+      "root": "C",
+      "type": "major",
+      "slug": "c-major",
+      "path": "c-major/scale-diagram.png"
+    },
+    {
+      "root": "C",
+      "type": "minor",
+      "slug": "c-minor",
+      "path": "c-minor/scale-diagram.png"
+    },
+    {
+      "root": "C#",
+      "type": "major",
+      "slug": "csharp-major",
+      "path": "csharp-major/scale-diagram.png"
+    },
+    {
+      "root": "C#",
+      "type": "minor",
+      "slug": "csharp-minor",
+      "path": "csharp-minor/scale-diagram.png"
+    },
+    {
+      "root": "Db",
+      "type": "major",
+      "slug": "dflat-major",
+      "path": "dflat-major/scale-diagram.png"
+    },
+    {
+      "root": "Db",
+      "type": "minor",
+      "slug": "dflat-minor",
+      "path": "dflat-minor/scale-diagram.png"
+    },
+    {
+      "root": "D",
+      "type": "major",
+      "slug": "d-major",
+      "path": "d-major/scale-diagram.png"
+    },
+    {
+      "root": "D",
+      "type": "minor",
+      "slug": "d-minor",
+      "path": "d-minor/scale-diagram.png"
+    },
+    {
+      "root": "D#",
+      "type": "major",
+      "slug": "dsharp-major",
+      "path": "dsharp-major/scale-diagram.png"
+    },
+    {
+      "root": "D#",
+      "type": "minor",
+      "slug": "dsharp-minor",
+      "path": "dsharp-minor/scale-diagram.png"
+    },
+    {
+      "root": "Eb",
+      "type": "major",
+      "slug": "eflat-major",
+      "path": "eflat-major/scale-diagram.png"
+    },
+    {
+      "root": "Eb",
+      "type": "minor",
+      "slug": "eflat-minor",
+      "path": "eflat-minor/scale-diagram.png"
+    },
+    {
+      "root": "E",
+      "type": "major",
+      "slug": "e-major",
+      "path": "e-major/scale-diagram.png"
+    },
+    {
+      "root": "E",
+      "type": "minor",
+      "slug": "e-minor",
+      "path": "e-minor/scale-diagram.png"
+    },
+    {
+      "root": "F",
+      "type": "major",
+      "slug": "f-major",
+      "path": "f-major/scale-diagram.png"
+    },
+    {
+      "root": "F",
+      "type": "minor",
+      "slug": "f-minor",
+      "path": "f-minor/scale-diagram.png"
+    },
+    {
+      "root": "F#",
+      "type": "major",
+      "slug": "fsharp-major",
+      "path": "fsharp-major/scale-diagram.png"
+    },
+    {
+      "root": "F#",
+      "type": "minor",
+      "slug": "fsharp-minor",
+      "path": "fsharp-minor/scale-diagram.png"
+    },
+    {
+      "root": "Gb",
+      "type": "major",
+      "slug": "gflat-major",
+      "path": "gflat-major/scale-diagram.png"
+    },
+    {
+      "root": "Gb",
+      "type": "minor",
+      "slug": "gflat-minor",
+      "path": "gflat-minor/scale-diagram.png"
+    },
+    {
+      "root": "G",
+      "type": "major",
+      "slug": "g-major",
+      "path": "g-major/scale-diagram.png"
+    },
+    {
+      "root": "G",
+      "type": "minor",
+      "slug": "g-minor",
+      "path": "g-minor/scale-diagram.png"
+    },
+    {
+      "root": "G#",
+      "type": "major",
+      "slug": "gsharp-major",
+      "path": "gsharp-major/scale-diagram.png"
+    },
+    {
+      "root": "G#",
+      "type": "minor",
+      "slug": "gsharp-minor",
+      "path": "gsharp-minor/scale-diagram.png"
+    },
+    {
+      "root": "Ab",
+      "type": "major",
+      "slug": "aflat-major",
+      "path": "aflat-major/scale-diagram.png"
+    },
+    {
+      "root": "Ab",
+      "type": "minor",
+      "slug": "aflat-minor",
+      "path": "aflat-minor/scale-diagram.png"
+    },
+    {
+      "root": "A",
+      "type": "major",
+      "slug": "a-major",
+      "path": "a-major/scale-diagram.png"
+    },
+    {
+      "root": "A",
+      "type": "minor",
+      "slug": "a-minor",
+      "path": "a-minor/scale-diagram.png"
+    },
+    {
+      "root": "A#",
+      "type": "major",
+      "slug": "asharp-major",
+      "path": "asharp-major/scale-diagram.png"
+    },
+    {
+      "root": "A#",
+      "type": "minor",
+      "slug": "asharp-minor",
+      "path": "asharp-minor/scale-diagram.png"
+    },
+    {
+      "root": "Bb",
+      "type": "major",
+      "slug": "flatflat-major",
+      "path": "flatflat-major/scale-diagram.png"
+    },
+    {
+      "root": "Bb",
+      "type": "minor",
+      "slug": "flatflat-minor",
+      "path": "flatflat-minor/scale-diagram.png"
+    },
+    {
+      "root": "B",
+      "type": "major",
+      "slug": "flat-major",
+      "path": "flat-major/scale-diagram.png"
+    },
+    {
+      "root": "B",
+      "type": "minor",
+      "slug": "flat-minor",
+      "path": "flat-minor/scale-diagram.png"
+    }
+  ]
+}
