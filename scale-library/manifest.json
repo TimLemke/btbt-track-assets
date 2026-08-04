@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T14:12:56.818Z",
+  "generated_at": "2026-08-04T14:13:28.900Z",
   "width": 1800,
   "height": 340,
   "scales": [
@@ -186,14 +186,14 @@
     {
       "root": "Bb",
       "type": "major",
-      "slug": "flatflat-major",
-      "path": "flatflat-major/scale-diagram.png"
+      "slug": "bflat-major",
+      "path": "bflat-major/scale-diagram.png"
     },
     {
       "root": "Bb",
       "type": "minor",
-      "slug": "flatflat-minor",
-      "path": "flatflat-minor/scale-diagram.png"
+      "slug": "bflat-minor",
+      "path": "bflat-minor/scale-diagram.png"
     },
     {
       "root": "B",
